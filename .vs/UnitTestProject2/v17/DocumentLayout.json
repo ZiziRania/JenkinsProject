@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zizir\\source\\repos\\UnitTestProject2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49034B29-FE67-4E20-84CB-1EEA979BE391}|UnitTestProject2\\UnitTestProject2.csproj|c:\\users\\zizir\\source\\repos\\unittestproject2\\unittestproject2\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49034B29-FE67-4E20-84CB-1EEA979BE391}|UnitTestProject2\\UnitTestProject2.csproj|solutionrelative:unittestproject2\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49034B29-FE67-4E20-84CB-1EEA979BE391}|UnitTestProject2\\UnitTestProject2.csproj|c:\\users\\zizir\\source\\repos\\unittestproject2\\unittestproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49034B29-FE67-4E20-84CB-1EEA979BE391}|UnitTestProject2\\UnitTestProject2.csproj|solutionrelative:unittestproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49034B29-FE67-4E20-84CB-1EEA979BE391}|UnitTestProject2\\UnitTestProject2.csproj|C:\\Users\\zizir\\source\\repos\\UnitTestProject2\\unittestproject2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49034B29-FE67-4E20-84CB-1EEA979BE391}|UnitTestProject2\\UnitTestProject2.csproj|solutionrelative:unittestproject2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49034B29-FE67-4E20-84CB-1EEA979BE391}|UnitTestProject2\\UnitTestProject2.csproj|C:\\Users\\zizir\\source\\repos\\UnitTestProject2\\unittestproject2\\readdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49034B29-FE67-4E20-84CB-1EEA979BE391}|UnitTestProject2\\UnitTestProject2.csproj|solutionrelative:unittestproject2\\readdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49034B29-FE67-4E20-84CB-1EEA979BE391}|UnitTestProject2\\UnitTestProject2.csproj|C:\\Users\\zizir\\source\\repos\\UnitTestProject2\\unittestproject2\\data.json||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{49034B29-FE67-4E20-84CB-1EEA979BE391}|UnitTestProject2\\UnitTestProject2.csproj|solutionrelative:unittestproject2\\data.json||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data.json",
+              "DocumentMoniker": "C:\\Users\\zizir\\source\\repos\\UnitTestProject2\\UnitTestProject2\\Data.json",
+              "RelativeDocumentMoniker": "UnitTestProject2\\Data.json",
+              "ToolTip": "C:\\Users\\zizir\\source\\repos\\UnitTestProject2\\UnitTestProject2\\Data.json",
+              "RelativeToolTip": "UnitTestProject2\\Data.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T07:51:20.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\zizir\\source\\repos\\UnitTestProject2\\UnitTestProject2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject2\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\zizir\\source\\repos\\UnitTestProject2\\UnitTestProject2\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject2\\UnitTest1.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:16:59.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadData.cs",
+              "DocumentMoniker": "C:\\Users\\zizir\\source\\repos\\UnitTestProject2\\UnitTestProject2\\ReadData.cs",
+              "RelativeDocumentMoniker": "UnitTestProject2\\ReadData.cs",
+              "ToolTip": "C:\\Users\\zizir\\source\\repos\\UnitTestProject2\\UnitTestProject2\\ReadData.cs",
+              "RelativeToolTip": "UnitTestProject2\\ReadData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:07:38.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\zizir\\source\\repos\\UnitTestProject2\\UnitTestProject2\\Client.cs",
+              "RelativeDocumentMoniker": "UnitTestProject2\\Client.cs",
+              "ToolTip": "C:\\Users\\zizir\\source\\repos\\UnitTestProject2\\UnitTestProject2\\Client.cs",
+              "RelativeToolTip": "UnitTestProject2\\Client.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:41:45.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data.json",
+              "DocumentMoniker": "C:\\Users\\zizir\\source\\repos\\UnitTestProject2\\UnitTestProject2\\Data.json",
+              "RelativeDocumentMoniker": "UnitTestProject2\\Data.json",
+              "ToolTip": "C:\\Users\\zizir\\source\\repos\\UnitTestProject2\\UnitTestProject2\\Data.json",
+              "RelativeToolTip": "UnitTestProject2\\Data.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T13:36:31.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

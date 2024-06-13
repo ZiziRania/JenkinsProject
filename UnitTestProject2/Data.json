@@ -1,0 +1,15 @@
+﻿{
+	"prefix": "Miss.",
+	"firstName": "Rania",
+	"lastName": "Ranii",
+	"EmailAddress": "mail@gmail.com",
+	"ContactNumber": "0767642079",
+
+	"guest": {
+		"prefix": "Mrs.",
+		"firstName": "Antoine",
+		"lastName": "jfje",
+		"EmailAddress": "Antoine@mail.com",
+		"ContactNumber": "0655223021"
+	}
+}
